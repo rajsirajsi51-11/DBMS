@@ -57,7 +57,7 @@ on student.Course_id = course.Course_id;
 ## Output Screenshots
 
 ### Output 4.1
-![Output 4.1](4.1.png)
+![Output 4.1](Exp4.1/4.1.png)
 
 ### Output 4.2
 ![Output 4.2](4.2.png)
