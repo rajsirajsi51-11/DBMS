@@ -57,16 +57,16 @@ on student.Course_id = course.Course_id;
 ## Output Screenshots
 
 ### Output 4.1
-![Output 4.1](Exp4.1/4.1.png)
+![Output 4.1](Exp%204.1/4.1.png)
 
 ### Output 4.2
-![Output 4.2](4.2.png)
+![Output 4.2](Exp%204.2/4.2.png)
 
 ### Output 4.3
-![Output 4.3](4.3.png)
+![Output 4.3](Exp%204.3/4.3.png)
 
 ### Output 4.4
-![Output 4.4](4.4.png)
+![Output 4.4](Exp%204.4/4.4.png)
 
 ## Result
 
