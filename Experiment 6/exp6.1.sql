@@ -1,0 +1,15 @@
+INSERT INTO employees (emp_id, emp_name, emp_salary, emp_city) VALUES
+(101, 'Amit Sharma', 85000.00, 'Mumbai'),
+(102, 'Priya Patel', 95000.00, 'Mumbai'),
+(103, 'Rahul Verma', 60000.00, 'Delhi'),
+(104, 'Ananya Iyer', 110000.00, 'Bangalore'),
+(105, 'Vikram Singh', 55000.00, 'Delhi'),
+(106, 'Sneha Reddy', 105000.00, 'Bangalore'),
+(107, 'Rohan Das', 72000.00, 'Kolkata')
+
+CREATE OR REPLACE VIEW EMP_VIEW AS 
+SELECT emp_id,emp_name FROM
+EMPLOYEES WHERE emp_id=101;
+
+SELECT * FROM EMP_VIEW;
+DELETE FROM EMP_VIEW WHERE emp_id=101;
